@@ -22,7 +22,7 @@
 -- a.	Trips Target
 -- b.	New Passenger Target
 -- c.	Average Passenger Rating Target
--- -----------------------------------------------------------------------------------------------------|
+-- ----------------------------------------------------------------------------------------------------|
 -- Whole Querry arranged according to the table present :
 -- 1. table 1 : city_target_passenger_rating:
 SELECT * FROM targets_db.city_target_passenger_rating;
