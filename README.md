@@ -37,8 +37,17 @@ Goodcabs, a cab service company, has rapidly established itself in India's tier-
 - **Datasets:** Provided for trip analysis and customer insights.
 - **Metadata:** Contextual reference for data fields.
 - **Supporting Documents:**
-  - `primary_and_secondary_questions.pdf` – Guidance for initial analysis.
-  - `ad-hoc-requests.pdf` – SQL-based business queries.
+1. **Database/Data Source file** -[TRIP SOURCE FILE ](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/trips_db.sql) AND 
+                                  [TARGET SOURCE FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/targets_db.sql) : *BIG FILES , THUS IT REQUIRES LFS*
+3. **PowerBI(pbix) file** -[PBIX FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/TRAVEL%26TRIPS.pbix) : *NEED POWER BI TO OPEN THIS* AND
+                           [PBIX PNG FILE ](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/FireShot%20Capture%20258%20-%20TRAVEL%26TRIPS%20-%20Power%20BI%20-%20%5Bapp.powerbi.com%5D.png) 
+5. **PowerBI fabric Application link** - [FABRIC DASHBOARD DIRECT LINK ](https://app.powerbi.com/links/Q5jXtJ_j0h?ctid=4fd60770-0a1d-4047-b029-26a2cc4b34e2&pbi_source=linkShare)
+6. **Powerpoint file** -[POWERPOINT PPT FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/travel%20and%20trip.pptx) : *MUST HAVE AN POWERBI ACCOUNT TO OPEN THIS*
+7. **PDF file** - [PDF FORM FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/TRAVEL%26TRIPS%20(1).pdf)
+8. **SQL data analysis Query** -[SQL QUERY ROUGH FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/SQL%20QUERY%20%7B%20ROUGH%20%7D) : * FOR ROUGH ANALYSIS WITHOUT RUNNING THE QUERIES*
+                                [SQL QUERY MAIN FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/SQL%20QUERY%20GOODCABS.sql) : *FOR PROPER QUERIES CHECK THIS*
+10. **Aims Grid** -[Download AIMS GRID](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/aims%20grid%20%2313%20%2312.png)
+11. **Excel file** -[EXCEL FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/TRAVEL%26TRIPS.xlsx)
 
 ## 📢 Key Takeaways
 This project aims to provide a data-driven approach to operational strategy, ensuring that Goodcabs enhances its service quality, customer retention, and overall market positioning in India's growing mobility landscape.
