@@ -48,6 +48,7 @@ Goodcabs, a cab service company, has rapidly established itself in India's tier-
                                 [SQL QUERY MAIN FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/SQL%20QUERY%20GOODCABS.sql) : *FOR PROPER QUERIES CHECK THIS*
 10. **Aims Grid** -[Download AIMS GRID](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/aims%20grid%20%2313%20%2312.png)
 11. **Excel file** -[EXCEL FILE](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/TRAVEL%26TRIPS.xlsx)
+12. 10. **Dashboard Snippet** *if you dont want to download anything you can watch it here* -[Dashboard snippet](https://github.com/Aniru1105/GoodCabs_Analysis/blob/main/Screenshot%202025-03-07%20133545.png)
 
 ## 📢 Key Takeaways
 This project aims to provide a data-driven approach to operational strategy, ensuring that Goodcabs enhances its service quality, customer retention, and overall market positioning in India's growing mobility landscape.
